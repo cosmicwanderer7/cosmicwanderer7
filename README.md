@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a 2nd year undergrad, pursuing BSc in Computer Science.
+- 🔭 I’m currently a 2nd year undergrad, pursuing BSc.
 
 - 🌱 My fields of intetest are 
   - **Fullstack Development**
@@ -61,7 +61,7 @@
 <img alt="Prithvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cosmicwanderer7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </p>
 <br/>
-<br/>
+
 
 ## Watch my contributions get eaten by a snake 🐍
 
