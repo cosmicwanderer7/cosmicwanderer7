@@ -31,7 +31,7 @@
     <a style="padding-right: 15px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
    <a style="padding-right: 15px;" href="https://nodejs.org" target="_blank"> <img  style="padding-right: 15px; max-width:48px; height: 48px;" src="https://nodejs.org/static/images/logo.svg"/> </a> 
-   <a style="padding-right: 15px; padding-left: 15px;" href="https://nextjs.org/" target="_blank"> <img style="max-width:58px; height: 58px;" src="https://nx.dev/documentation/shared/nextjs-logo.png"/> </a> 
+   <a style="padding-right: 15px; padding-left: 15px;" href="https://nextjs.org/" target="_blank"> <img style="max-width:58px; height: 58px;" src="https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/02/NextJs.png?resize=730%2C389&ssl=1"/> </a> 
    
     
 </p>
