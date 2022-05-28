@@ -32,7 +32,7 @@
     <a style="padding-right: 15px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
    <a style="padding-right: 15px; padding-left: 15px;" href="https://nodejs.org" target="_blank"> <img  style="padding-right: 15px; max-width:48px; height: 48px;" src="https://nodejs.org/static/images/logo.svg"/> </a> &nbsp;
    <a style="padding-right: 15px; " href="https://nextjs.org/" target="_blank"> <img style="max-width:52px; height: 52px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/> </a> 
-    <a style="padding-right: 15px; " href="https://nextjs.org/" target="_blank"> <img style="max-width:52px; height: 52px;" src="https://svgarchive.com/wp-content/uploads/tailwind-css.svg"/> </a> 
+    <a style="padding-right: 15px; " href="https://nextjs.org/" target="_blank"> <img style="max-width:48px; height: 48px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/> </a> 
    
     
 </p>
