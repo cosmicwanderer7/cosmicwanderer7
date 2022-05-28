@@ -30,7 +30,7 @@
     <a style="padding-right: 15px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-   <a style="padding-right: 15px; padding-left: 15px;" href="https://nodejs.org" target="_blank"> <img  style="padding-right: 15px; max-width:48px; height: 48px;" src="https://nodejs.org/static/images/logo.svg"/> </a> 
+   <a style="padding-right: 15px; padding-left: 15px;" href="https://nodejs.org" target="_blank"> <img  style="padding-right: 15px; max-width:48px; height: 48px;" src="https://nodejs.org/static/images/logo.svg"/> </a> &nbps;&nbps;
    <a style="padding-right: 15px; " href="https://nextjs.org/" target="_blank"> <img style="max-width:52px; height: 52px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/> </a> 
    
     
