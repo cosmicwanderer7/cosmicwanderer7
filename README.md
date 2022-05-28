@@ -29,7 +29,6 @@
     <a style="padding-right: 15px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right: 15px;" href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
     <a style="padding-right: 15px;" href="https://nodejs.org/api/" target="_blank"> <img src="https://img.icons8.com/color/48/nodejs.png"/> </a>  
     <a style="padding-right: 15px;" href="https://nextjs.org/docs/getting-started" target="_blank"> <img src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png" width=68/> </a>  
