@@ -49,7 +49,7 @@
 </p>
 
 
-  <br/>
+ 
   <p align="center">
     <img alt="Prithvi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cosmicwanderer7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
