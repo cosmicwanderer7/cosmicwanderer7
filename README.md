@@ -24,7 +24,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left" style="padding-right: 15px;" > 
+<p align="centre" style="padding-right: 15px;" > 
     <a style="padding-right: 15px;" href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a style="padding-right: 15px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
