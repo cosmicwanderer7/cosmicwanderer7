@@ -24,7 +24,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="left" style="padding-right: 15px;" > 
     <a style="padding-right: 15px;" href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a style="padding-right: 15px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -68,8 +68,8 @@
 <p align="left">
 
 <a href = "https://dev.to/cosmicwanderer7"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width=41/></a>
-<a href = "https://twitter.com/PrithviYewale"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/prithvi_yewale/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/PrithviYewale"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
