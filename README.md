@@ -59,7 +59,7 @@ tokyonight
 
 <br/>
 <p align="center">
-<img alt="Prithvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cosmicwanderer7&bg_color=0D1117&color=739FCF&line=739FCF&point=FFFFFF&hide_border=true" />
+<img alt="Prithvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cosmicwanderer7&bg_color=0D1117&color=739FCF&line=739FCF&point=FFFFFF&hide_border=false&borderradius=88" />
 </p>
 
 
