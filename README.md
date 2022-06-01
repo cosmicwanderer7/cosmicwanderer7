@@ -29,8 +29,8 @@
     <a style="padding-right: 15px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
    <a style="padding-right: 15px; padding-left: 15px;" href="https://nodejs.org" target="_blank"> <img  style="padding-right: 15px; max-width:48px; height: 48px;" src="https://nodejs.org/static/images/logo.svg"/> </a> &nbsp;
-   <a style="padding-right: 15px; " href="https://nextjs.org/" target="_blank"> <img style="max-width:52px; height: 52px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/> </a>  &nbsp;
-    <a style="padding-right: 15px; " href="https://tailwindcss.com/" target="_blank"> <img style="max-width:48px; height: 48px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/> </a> &nbsp;
+   <a style="padding-right: 15px; " href="https://nextjs.org/" target="_blank"> <img style="max-width:52px; height: 52px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/> </a>&nbsp;
+    <a style="padding-right: 15px; " href="https://tailwindcss.com/" target="_blank"> <img style="max-width:48px; height: 48px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/> </a>&nbsp;
    
     
 </p>
@@ -42,15 +42,15 @@ tokyonight
 
 ## 📊 My Github Stats
 
-<p align="left">
+<p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prithvi Yewale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmicwanderer7&theme=blueberry&border=true&stroke=b4e3ff&background=0D1117"/>
 </p> 
-<p align="left">
+<p align="center">
 <img alt="Prithvi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cosmicwanderer7&theme=tokyonight&show_icons=true&bg_color=0D1117&border=true" />
 </p>
-<p align="left">
-  <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicwanderer7&theme=tokyonight&show_icons=true&bg_color=0D1117&border=true" />
-  
+<p align="center">
+  <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicwanderer7&theme=tokyonight&show_icons=true&bg_color=0D1117&border=true" /></p>
+<p align="center"  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
