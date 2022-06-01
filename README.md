@@ -57,7 +57,7 @@ tokyonight
 
 <br/>
 <p align="center">
-<img alt="Prithvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cosmicwanderer7&bg_color=0D1117&color=739FCF&line=739FCF&point=FFFFFF&hide_border=false&borderradius=88" />
+<img![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif) alt="Prithvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cosmicwanderer7&bg_color=0D1117&color=739FCF&line=739FCF&point=FFFFFF&hide_border=false&borderradius=88" />
 </p>
 
 
@@ -65,6 +65,7 @@ tokyonight
 ## Watch my contributions get eaten by a snake 🐍
 
 ![snake gif](https://github.com/cosmicwanderer7/cosmicwanderer7/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ## Connect with me:
 <p align="left">
