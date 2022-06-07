@@ -1,31 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@cosmicwanderer7
-AartiKushwaha /
-AartiKushwaha
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-AartiKushwaha/.github/workflows/main.yml
-@AartiKushwaha
-AartiKushwaha Update main.yml
-Latest commit 64c1f59 6 days ago
-History
-1 contributor
-52 lines (42 sloc) 1.57 KB
 name: Generate Snake
 
 # Controls when the action will run. This action runs every 6 hours.
@@ -79,18 +52,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    © 2022 GitHub, Inc.
 
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Loading complete
