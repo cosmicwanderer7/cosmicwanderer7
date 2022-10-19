@@ -20,8 +20,10 @@
 
 - ⚡ Fun fact **My favourite song- Baarishein by Anuv Jain, go and listen to it after viewing my profile 😉**
 
-<p><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5iCY0TXNImK4hyKfcplQsg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></p>
 
+<p align="center">
+<img alt="Prithvi's Activity Graph" style="border-radius:12px"  width="100%" height="152" src="https://open.spotify.com/embed/track/5iCY0TXNImK4hyKfcplQsg?utm_source=generator"/>
+</p>
 ## 🚀 Languages and Tools:
 
 <p align="center" style="padding-right: 15px;" > 
