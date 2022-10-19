@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **My favourite song- Baarishein by Anuv Jain, go and listen to it after viewing my profile 😉**
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5iCY0TXNImK4hyKfcplQsg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5iCY0TXNImK4hyKfcplQsg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></p>
 
 ## 🚀 Languages and Tools:
 
