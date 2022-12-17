@@ -59,7 +59,14 @@ tokyonight
 
 <br/>
 <p align="center">
-<img alt="Prithvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cosmicwanderer7&bg_color=0D1117&color=739FCF&line=739FCF&point=FFFFFF&hide_border=false" />
+
+
+
+
+[![Prithvi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cosmicwanderer7&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 </p>
 
 
