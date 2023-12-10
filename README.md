@@ -14,6 +14,7 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/Linkedin-0a66c2)](https://www.linkedin.com/in/prithviyewale/)
+[![](https://img.shields.io/badge/Dev-FFFF00)](https://dev.to/cosmicwanderer7)
 [![](https://img.shields.io/badge/Instagram-ff66ab)](https://www.instagram.com/prithvi_yewale/)
 [![](https://img.shields.io/badge/Dev-FFFF00)](https://dev.to/cosmicwanderer7)
 [![](https://img.shields.io/badge/Portfolio-46D56C)](https://webprithviyewale.tech/)
