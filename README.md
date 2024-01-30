@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     💼 BSC • India • Web Developer
-    💻 Java/Python/JS • ReactJs/NextJS/NodeJs 
+    💻 JS/Java/Bash • ReactJs/NextJS/NodeJs 
     📖 UI/UX Design • Linux
     🎮 Music • Anime • Sleep • Code • Games
     🐾 IceCream & CheeseCake 🐰 • ☕ Tea & Coffee 🐤🐥
