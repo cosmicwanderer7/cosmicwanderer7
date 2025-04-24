@@ -5,7 +5,7 @@
 <pre>
     💼 BSC • India • Web Developer
     💻 JS/Java/Bash • ReactJs/NextJS/NodeJs 
-    📖 UI/UX Design • Linux
+    📖 UI/UX Design • Linux • Building PCs
     🎮 Music • Anime • Sleep • Code • Games
     🐾 IceCream & CheeseCake 🐰 • ☕ Tea & Coffee 🐤🐥
 </pre>
